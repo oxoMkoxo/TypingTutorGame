@@ -10,19 +10,19 @@ Our project is very useful and it provides an interesting way to learn typing. U
 ## SCREENSHOTS WITH WORKING
 
 ### 1.
-![](\Screenshots\1.png)
+![](Screenshots/1.png)
 ```
 Figure 6: Splash Screen at 19%
 ```
 This is the first screen of my project. This screen is called Splash Screen. It shows a
 Progress Bar which starts from 0 and goes till 100%.
-![](\Screenshots\2.png)
+![](Screenshots/2.png)
 ```
 Figure 7: Splash screen at 71%
 ```
 
 ### 2.
-![](\Screenshots\3.png)
+![](Screenshots/3.png)
 ```
 Figure 8: Start screen
 ```
@@ -31,7 +31,7 @@ is added to let user get ready for the game. Whenever he/she is ready, the game 
 proceeded by clicking start.
 
 ### 3.
-![](\Screenshots\4.png)
+![](Screenshots/4.png)
 ```
 Figure 9: Game-play Stage Area screen
 ```
@@ -48,7 +48,7 @@ It consists of options like:
 1. Pause-Option Button: It stops the game time and characters flashing
 temporarily. Once the Pause-Button is clicked, it gets converted to Start button
 for further movement in game. User can start the game again by click start.
-![](\Screenshots\5.png)
+![](Screenshots/5.png)
 ```
 Figure 10: Functioning of Pause Button
 ```
@@ -56,7 +56,7 @@ Figure 10: Functioning of Pause Button
     an option pane dialog box asking user whether he/she wants to replay the game
     or not.
 
-![](\Screenshots\6.png)
+![](Screenshots/6.png)
 ```
 Figure 11: Replay Option Pane Dialog Box
 ```
