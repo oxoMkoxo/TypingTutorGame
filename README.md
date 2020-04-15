@@ -10,30 +10,34 @@ Our project is very useful and it provides an interesting way to learn typing. U
 ## SCREENSHOTS WITH WORKING
 
 ### 1.
-![](Screenshots/1.png)
+
+<img src="Screenshots/1.png" height="300px" width="500px"></img>
 ```
-Figure 6: Splash Screen at 19%
+Screenshot 1: Splash Screen at 19%
 ```
 This is the first screen of my project. This screen is called Splash Screen. It shows a
 Progress Bar which starts from 0 and goes till 100%.
-![](Screenshots/2.png)
+
+<img src="Screenshots/2.png" height="300px" width="500px"></img>
 ```
-Figure 7: Splash screen at 71%
+Screenshot 2: Splash screen at 71%
 ```
 
 ### 2.
-![](Screenshots/3.png)
+
+<img src="Screenshots/3.png" height="300px" width="500px"></img>
 ```
-Figure 8: Start screen
+Screenshot 3: Start screen
 ```
 This is the second screen. It comes just after splash screen in a new window. This screen
 is added to let user get ready for the game. Whenever he/she is ready, the game can be
 proceeded by clicking start.
 
 ### 3.
-![](Screenshots/4.png)
+
+<img src="Screenshots/4.png" height="300px" width="500px"></img>
 ```
-Figure 9: Game-play Stage Area screen
+Screenshot 4: Game-play Stage Area screen
 ```
 
 The Screen at figure 9 shows the Game-play Stage Area where the game is played.
@@ -48,17 +52,18 @@ It consists of options like:
 1. Pause-Option Button: It stops the game time and characters flashing
 temporarily. Once the Pause-Button is clicked, it gets converted to Start button
 for further movement in game. User can start the game again by click start.
-![](Screenshots/5.png)
+
+<img src="Screenshots/5.png" height="300px" width="500px"></img>
 ```
-Figure 10: Functioning of Pause Button
+Screenshot 5: Functioning of Pause Button
 ```
 2. Stop-Option Button: It stops the game. When this button is clicked, it displays
     an option pane dialog box asking user whether he/she wants to replay the game
     or not.
 
-![](Screenshots/6.png)
+<img src="Screenshots/6.png" height="300px" width="500px"></img>
 ```
-Figure 11: Replay Option Pane Dialog Box
+Screenshot 6: Replay Option Pane Dialog Box
 ```
 3. Time Display Label: It shows the time left in seconds. The game is setup with
     time limit of 15 seconds. By each passing second it decreases.
